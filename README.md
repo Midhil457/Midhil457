@@ -2,9 +2,9 @@
 
 - 👀 I’m interested in making games and software and designing them
 
-- 🌱 I’m currently learning python and Gdevelop 5
+- 🌱 I’m currently learning python 3 and Gdevelop 5
 
-- 💞️ I’m looking to collaborate on things I am intrested in like Game engines, Image manipulation (Image editors, pixel editors, etc..), GUI, games and projects made in GDevelop and python
+- 💞️ I’m looking to collaborate on things I am intrested in like Game engines, Image manipulation (Image editors, pixel editors, etc..), GUI design, games and projects made in GDevelop and python
 
 - 📫 How to reach me, you can reach me at midhilm457@gmail.com, or on gamejolt https://gamejolt.com/@MidhilM
 
