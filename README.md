@@ -1,3 +1,4 @@
+ ## Hi! 
 - 👋 Hi, I’m @Midhil457 (Leo red)
 
 - 👀 I’m interested in making games and software and designing them
@@ -9,7 +10,3 @@
 - 📫 How to reach me, you can reach me at midhilm457@gmail.com, or on gamejolt https://gamejolt.com/@MidhilM
 
 -    My work, https://leo-red.itch.io/
-<!---
-Midhil457/Midhil457 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
