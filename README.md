@@ -10,3 +10,6 @@
 - 📫 How to reach me, you can reach me at midhilm457@gmail.com, or on gamejolt https://gamejolt.com/@MidhilM
 
 -    My work, https://leo-red.itch.io/
+
+
+[![gamejolt](https://user-images.githubusercontent.com/73597906/153435529-cb08b3db-19fa-4bf5-8f6f-def2020302ff.svg)](https://gamejolt.com/@MidhilM)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![itchio-textless-black](https://user-images.githubusercontent.com/73597906/153436229-1d532b44-877a-4bf3-b6a6-3649075563b6.svg)](https://leo-red.itch.io/)
