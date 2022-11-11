@@ -33,6 +33,10 @@
 
 - **A bit of Javascript [Enough to stay alive]**
 
+**[🌟]**
+- **Build a pixel art editor**
+- **Build a game engine**
+
 
 ![text4975](https://user-images.githubusercontent.com/73597906/199463198-74402c70-782f-458d-8c77-e27d5897a35a.png)
 ![Seperator](https://user-images.githubusercontent.com/73597906/199452529-104e920a-e764-456f-b6a0-5efedec045e2.svg)
